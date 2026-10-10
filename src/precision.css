@@ -1,0 +1,8 @@
+.card-highlights { margin: 10px 0; padding: 10px 12px; border-radius: 7px; background: #f4f7ef; font-size: 11px; line-height: 1.7; }
+.card-highlight-label { color: #557143; font-size: 10px; font-weight: 600; }
+.card-highlights ul { margin: 6px 0; padding-left: 15px; }
+.card-highlights li, .card-use-case { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.card-highlights small, .card-highlight-pending { color: #89937c; font-size: 10px; }
+.card-cache-note { color: #936f36; }
+.github-quota-hint { font-size: 11px; line-height: 1.8; color: #7e896f; margin-top: 10px; }
+.github-quota-hint a { color: #507942; text-decoration: underline; }

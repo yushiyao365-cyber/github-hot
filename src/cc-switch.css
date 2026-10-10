@@ -1,0 +1,4 @@
+.cc-switch-controls { display: flex; gap: 8px; min-width: 0; }
+.cc-switch-controls select { flex: 1; width: 0; padding: 10px; border: 1px solid #dfe5d9; border-radius: 6px; background: #fff; color: inherit; }
+.cc-switch-controls button { display: inline-flex; align-items: center; gap: 5px; padding: 8px 12px; border: 1px solid #dfe5d9; border-radius: 6px; white-space: nowrap; }
+.cc-switch-picker [role="alert"] { color: #976023; }
